@@ -5,4 +5,3 @@ Indoxploit Shell : IndoXploit
 posion Shell : 
 user :- test 
 pass :- test
-
