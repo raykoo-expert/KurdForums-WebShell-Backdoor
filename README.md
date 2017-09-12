@@ -1,5 +1,5 @@
 
-# [KurdForums WebShell Backdoor V1.0](https://github.com/raykoo-expert/KurdForums-WebShell-Backdoor/tree/master/KurdForums%20WebShell%20V1.0)
+# [KurdForums WebShell Backdoor](https://github.com/raykoo-expert/KurdForums-WebShell-Backdoor/tree/master/KurdForums%20WebShell%20V1.0)
 
 **A awesome WebShell Backdoor**
 
